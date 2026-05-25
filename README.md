@@ -14,9 +14,8 @@ Available on Google Play.
 
 ## Privacy Policy
 
-Read the privacy policy here:
-https://YOUR_USERNAME.github.io/YOUR_REPO/privacy-policy.html
+Read the privacy policy [here].(https://aaryanmakwana.github.io/3-phase-induction-motor-designer/)
 
 ## Contact
 
-Email: your@email.com
+Email: aaryanmakwana234524@gmail.com
