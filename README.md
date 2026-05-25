@@ -1,4 +1,4 @@
-# 3-phase-induction-motor-designer-privacy-policy
+# 3-phase-induction-motor-designer
 3 Phase Induction Motor Designer Application (Android)
 
 ## Features
